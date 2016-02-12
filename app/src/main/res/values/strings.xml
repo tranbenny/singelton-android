@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EBApplication</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
